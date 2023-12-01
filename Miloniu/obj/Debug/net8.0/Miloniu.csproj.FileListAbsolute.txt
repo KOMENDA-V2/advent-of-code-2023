@@ -1,0 +1,14 @@
+D:\future\advent-of-code-2023\Miloniu\bin\Debug\net8.0\Miloniu.exe
+D:\future\advent-of-code-2023\Miloniu\bin\Debug\net8.0\Miloniu.deps.json
+D:\future\advent-of-code-2023\Miloniu\bin\Debug\net8.0\Miloniu.runtimeconfig.json
+D:\future\advent-of-code-2023\Miloniu\bin\Debug\net8.0\Miloniu.dll
+D:\future\advent-of-code-2023\Miloniu\bin\Debug\net8.0\Miloniu.pdb
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.GeneratedMSBuildEditorConfig.editorconfig
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.AssemblyInfoInputs.cache
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.AssemblyInfo.cs
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.csproj.CoreCompileInputs.cache
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.dll
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\refint\Miloniu.dll
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.pdb
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\Miloniu.genruntimeconfig.cache
+D:\future\advent-of-code-2023\Miloniu\obj\Debug\net8.0\ref\Miloniu.dll
