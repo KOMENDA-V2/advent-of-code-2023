@@ -5,7 +5,7 @@ const [time, distance] = input.split("\n")
 const [name1, value1] = time.split(": ")
 const [name2, value2] = distance.split(": ")
 
-  let times = value1.replace("\r", "").trim().replaceAll("     ", "").split("       ")
+  let times = value1.replace("\r", "").trim().replaceAll("     ", "").split("       ").filter(item => item > 0)
   let distances = value2.replace("\r", "").trim().replaceAll("   ", "").split("       ").filter(item => item > 0)
   let multi = 1;
     for (let i = 0; i < times.length; i++) {
